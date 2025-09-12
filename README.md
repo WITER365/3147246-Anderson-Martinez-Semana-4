@@ -22,6 +22,8 @@ Dependencias aisladas: Paquetes instalados solo para este proyecto, evitando con
 
 Para poner en marcha la API localmente, sigue estos pasos:
 
+ pip install dotenv
+
 # Activar el entorno virtual
 source venv-personal/bin/activate
 
